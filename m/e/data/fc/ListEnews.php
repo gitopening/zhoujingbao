@@ -1,0 +1,6 @@
+<?php
+if(!defined('InEmpireCMS'))
+{
+	exit();
+}
+?><table border=0 cellspacing=0 cellpadding=0><tr><td id="pr1" class="file" onclick=""><a onclick=tourl(0,1) onmouseout=chft(this,0,1) onmouseover=chft(this,1,1) oncontextmenu=ShRM(this,0,1,'',1)>手机游戏</a></td></tr><tr><td id="pr2" class="file" onclick=""><a onclick=tourl(0,2) onmouseout=chft(this,0,2) onmouseover=chft(this,1,2) oncontextmenu=ShRM(this,0,2,'',1)>手机软件</a></td></tr><tr><td id="pr3" class="file" onclick=""><a onclick=tourl(0,3) onmouseout=chft(this,0,3) onmouseover=chft(this,1,3) oncontextmenu=ShRM(this,0,3,'',1)>电脑软件</a></td></tr><tr><td id="pr4" class="menu3" onclick="chengstate('4')"><a onmouseout=chft(this,0,4) onmouseover=chft(this,1,4) oncontextmenu=ShRM(this,0,4,'',0)>资讯攻略</a></td></tr><tr id="item4" style="display:none"><td class="list1"><table border=0 cellspacing=0 cellpadding=0><tr><td id="pr5" class="file" onclick=""><a onclick=tourl(4,5) onmouseout=chft(this,0,5) onmouseover=chft(this,1,5) oncontextmenu=ShRM(this,4,5,'',1)>软件教程</a></td></tr><tr><td id="pr6" class="file1" onclick=""><a onclick=tourl(4,6) onmouseout=chft(this,0,6) onmouseover=chft(this,1,6) oncontextmenu=ShRM(this,4,6,'',1)>游戏攻略</a></td></tr></table></td></tr></table>

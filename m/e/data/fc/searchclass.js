@@ -1,0 +1,1 @@
+document.write("<option value=\'1\'>|-手机游戏</option><option value=\'2\'>|-手机软件</option><option value=\'3\'>|-电脑软件</option><option value=\'4\'>|-资讯攻略</option><option value=\'5\'>&nbsp;&nbsp;|-软件教程</option><option value=\'6\'>&nbsp;&nbsp;|-游戏攻略</option>");

@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> - Powered by EmpireCMS</title>
+<meta name="keywords" content="阴阳师" />
+<meta name="description" content="阴阳师b服是一款b站渠道的和风卡牌手游，游戏前期各位朋友除了要练好的式神以外，更需要练一些式神的御魂，不同式神的御魂所需属性不同，合理搭配御魂能够让你的式神更加强大，游戏内更可以加入顺位寮，每周都拥有超丰富的寮任务，参与即可获得超多的游戏资源。" />
+<link href="/skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/skin/default/js/tabs.js"></script>
+</head>
+<body class="channle">
+<div class="page page-detail" id="page"> 
+  <!-- header -->
+    <header class="page-header">
+      <div class="topbar flex"> 
+        <a class="logo-wrap" href="/"><img class="logo" src="/statics/mobile/images/logo.png" alt="建站之家"></a>
+        <form class="search-form flex-item" action="/e/search/index.php" method="post" target="_blank">
+          <input type="search" class="search-input" name="keyboard" size="30" value="" placeholder="请输入搜索关键词"/>
+          <span class="search-clear"><i class="icon icon-clear"></i></span>
+          <button class="search-icon" type="submit"><i class="icon icon-search"></i></button>
+          <input type="hidden" name="show" value="title">
+          <input type="hidden" name="tempid" value="1" >
+          <input type="hidden" name="tbname" value="game">
+        </form>
+      </div>
+      <nav class="navbar"> <a class="nav-link" href="/">首页</a> 
+	  	  <a class="nav-link " href="/game/">游戏</a>	  <a class="nav-link " href="/app/">应用</a>	  <a class="nav-link " href="/news/">资讯</a> <a class="nav-link" href="/zt/">专题</a> <a class="nav-link" href="/top/">排行</a> </nav>
+    </header>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="news_list"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：<a href="/">首页</a>&nbsp;>&nbsp;<a href="//"></a></td>
+</tr>
+</table>
+</td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>推荐资讯</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>栏目ID=<b>13</b>的表不存在(操作类型=2)</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+栏目ID=<b>13</b>的表不存在(操作类型=0) 
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+栏目ID=<b>13</b>的表不存在(操作类型=1) 
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+ <p>Copyright&nbsp;&copy;&nbsp; 2020-2030 weite.96demo.com</p>
+</body>
+</html>
