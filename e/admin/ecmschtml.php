@@ -14,6 +14,15 @@ if(empty($enews))
 {
 	$enews=$_GET['enews'];
 }
+
+// <tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#C3EFFF'" style="background-color: rgb(255, 255, 255);">
+//                 <td height="48"> <div align="center">
+//                     <input type="button" name="Submit2" value="刷新首页" onclick="self.location.href='../ecmschtml.php?enews=ReIndex&amp;ehash_k9JGP=VLgv0p4sHd1ZBAcNpVOU&amp;rhash_xxdTW=jLSmYFxrM8xd'" title="生成首页">
+//                   </div></td>
+//               </tr>
+// 刷新主页的流程2
+// ecmschtml.php?enews=ReIndex<?=$ecms_hashur['href']?><?=$mphref?>'" title="生成首页">
+
 //验证用户
 $lur=is_login();
 $logininid=$lur['userid'];

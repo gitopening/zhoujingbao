@@ -2343,6 +2343,7 @@ function DoSpReFile($r,$spid=0){
 	WriteFiletext($filename,$string);
 }
 
+// 刷新主页的流程3
 //标签替换
 function NewsBq($classid,$indextext,$enews=0,$doing=0){
 	global $empire,$dbtbpre,$public_r,$emod_r,$class_r,$class_zr,$fun_r,$navclassid,$navinfor,$class_tr,$level_r,$etable_r;

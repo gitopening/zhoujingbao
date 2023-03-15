@@ -156,6 +156,7 @@ function CheckAll(form)
           <td width="50%" height="25" bgcolor="#FFFFFF"> <table width="100%" border="0" align="center" cellpadding="3" cellspacing="1">
               <tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#C3EFFF'"> 
                 <td height="48"> <div align="center"> 
+                  <!-- 刷新主页的流程从这里开始1 -->
                     <input type="button" name="Submit2" value="刷新首页" onclick="self.location.href='../ecmschtml.php?enews=ReIndex<?=$ecms_hashur['href']?><?=$mphref?>'" title="生成首页">
                   </div></td>
               </tr>

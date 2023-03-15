@@ -807,6 +807,7 @@ function ReClassPath($start=0){
 	exit();
 }
 
+// 刷新主页的流程2
 //刷新首页
 function ReIndex(){
 	$indextemp=GetIndextemp();//取得模板
